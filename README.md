@@ -42,3 +42,31 @@ Visualized proportions of gender and department distributions.
 Mapped the size of departments based on the number of employees and salary contributions.
 
 (Hierarchical visual representation)
+
+###################################################################################################################
+#mysql_upload & #mysql_upload1 are updates :
+✅ SQL Integration Update 🚀
+
+
+
+🔍 Employee Data Analysis | SQL + Python Integration
+
+Today, I took a significant step forward in my data analytics journey by integrating MySQL with my ongoing Employee Data Analysis project using Python and SQLAlchemy!
+
+
+
+📌 What I accomplished:
+
+Connected MySQL database with Python via SQLAlchemy
+
+Imported .csv dataset of 2000+ employee records
+
+Inserted, queried, and visualized the data directly from the database
+
+Executed SQL-based filtering, aggregations, and cross-column insights
+
+
+
+📈 Tools Used:
+
+MySQL · Python · Pandas · SQLAlchemy · Seaborn · Matplotlib
