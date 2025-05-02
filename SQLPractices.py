@@ -1,10 +1,6 @@
 from sqlalchemy import create_engine
 import pandas as pd
 
-#df = pd.read_csv("employees_cleaned_data.csv")
-
-# conn = mysql.connector.connect(host="localhost", user="root", password="12345", database="employee_data")
-
 username = "root"
 password = "12345"
 host = "localhost"
