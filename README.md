@@ -43,7 +43,7 @@ Mapped the size of departments based on the number of employees and salary contr
 
 (Hierarchical visual representation)
 
-#mysql_upload & #mysql_upload1 are updates :
+& #mysql_upload1 are updates :
 ✅ SQL Integration Update 🚀
 
 
