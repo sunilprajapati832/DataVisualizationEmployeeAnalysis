@@ -1,4 +1,4 @@
-# Data Visualization Employee Analysis
+#  Data Visualization Employee Analysis
 
 Data Visualization: Choosing the Right Graphs for Employee Analysis
 I explored how different types of graphs can reveal hidden insights from an employee dataset (2000+ entries, 5-6 numerical & 2-3 categorical features like Salary, Age, Department, Gender, Bonus %, and Performance Score).
