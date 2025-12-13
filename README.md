@@ -36,8 +36,6 @@ File: employees_cleaned_data.csv (2000+ employee records)
 | Environment     | Local Machine                 |
 
 ## Project Structure
-Data Visualization Employee Analysis/
-│
 | File Name                  | Purpose                                   |
 | -------------------------- | ----------------------------------------- |
 | employees_cleaned_data.csv | Cleaned employee dataset                  |
