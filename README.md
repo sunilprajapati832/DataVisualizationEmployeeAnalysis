@@ -96,7 +96,9 @@ SQL queries commonly asked in interviews:
 | Treemap      | Hierarchical view        | Salary & headcount by department |
 
 ![Graph Preview](Figure_1BarChartAverageSalarybyDepartment.png)
+
 ![Graph Preview](Figure_1SalaryDistribution.png)
+
 ![Graph Preview](Figure_2AgeDistribution.png)
 
 
