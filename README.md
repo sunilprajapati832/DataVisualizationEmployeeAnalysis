@@ -95,7 +95,7 @@ SQL queries commonly asked in interviews:
 | Pie Chart    | Proportions              | Gender & department ratio        |
 | Treemap      | Hierarchical view        | Salary & headcount by department |
 
-![Graph Preview](Figure_1BarChartAverageSalarybyDepartment.png)
+![Graph Preview](Images/Figure_1BarChartAverageSalarybyDepartment.png)
 
 ![Graph Preview](Figure_1SalaryDistribution.png)
 
