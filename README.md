@@ -97,9 +97,9 @@ SQL queries commonly asked in interviews:
 
 ![Graph Preview](Images/Figure_1BarChartAverageSalarybyDepartment.png)
 
-![Graph Preview](Figure_1SalaryDistribution.png)
+![Graph Preview](Images/Figure_1SalaryDistribution.png)
 
-![Graph Preview](Figure_2AgeDistribution.png)
+![Graph Preview](Images/Figure_2AgeDistribution.png)
 
 
 ## Connect with Me 🤝
