@@ -101,6 +101,12 @@ SQL queries commonly asked in interviews:
 
 ![Graph Preview](Images/Figure_2AgeDistribution.png)
 
+![Graph Preview](Images/Figure_1HeatMapCorrelationbetweenAge_Salary_Bonus_YearsExperience_PerformanceScore.png)
+
+![Graph Preview](Images/Figure_1PieChartGenderDistribution.png)
+
+![Graph Preview](Images/Figure_1SalaryDistributionWithDepartmentBoxPlot.png)
+
 
 ## Connect with Me 🤝
 If you found this project interesting, let’s connect!  
