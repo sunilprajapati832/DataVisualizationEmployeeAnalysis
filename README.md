@@ -107,6 +107,12 @@ SQL queries commonly asked in interviews:
 
 ![Graph Preview](Images/Figure_1SalaryDistributionWithDepartmentBoxPlot.png)
 
+![Graph Preview](Images/Figure_1TreeMapDepartmentwisetotalsalaryfortreemap.png)
+
+![Graph Preview](Images/Figure_2PerformanceScoreDistributionbyJobLevelBoxPlot.png)
+
+![Graph Preview](Images/Figure_2PerformanceScorevsBonusPercentScatterPlot.png)
+
 
 ## Connect with Me 🤝
 If you found this project interesting, let’s connect!  
