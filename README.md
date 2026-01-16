@@ -1,5 +1,4 @@
 # Data Visualization Employee Analysis
-
 A comprehensive end-to-end employee analytics project that demonstrates how Python, SQL, and Data Visualization can be combined to extract insights from real-world HR data. The project covers CSV-based analysis, MySQL database integration, SQL querying and interactive visual exploration using multiple chart types.
 
 ## Project Overview
@@ -116,8 +115,6 @@ SQL queries commonly asked in interviews:
 ![Graph Preview](Images/Figure_2PieChartDepartmentDistribution.png)
 
 ![Graph Preview](Images/Figure_2TreeMapTreemapofDepartment_wiseEmployeeCount.png)
-
-
 
 ## Connect with Me 🤝
 If you found this project interesting, let’s connect!  
