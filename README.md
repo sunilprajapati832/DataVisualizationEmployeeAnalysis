@@ -4,6 +4,7 @@ A comprehensive end-to-end employee analytics project that demonstrates how Pyth
 ## Project Overview
 This project analyzes an employee dataset (2000+ records) containing numerical and categorical attributes such as: Salary, Age, Bonus %, Performance Score, Years of Experience, Job Level, Department, Gender. <br>
 The goal is to:
+
 - Perform exploratory data analysis (EDA)
 - Choose the right visualization technique for each data type
 - Integrate MySQL with Python for scalable, query-driven analysis
